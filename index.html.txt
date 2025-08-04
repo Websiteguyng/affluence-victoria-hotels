@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Book luxury rooms at Affluence Victoria Hotel in Ekpoma, Edo State. Safe, stylish, and affordable hospitality.">
+  <meta property="og:title" content="Affluence Victoria Hotel - Ekpoma" />
+  <meta property="og:description" content="Luxury hotel rooms in Ekpoma. Book instantly or via WhatsApp." />
+  <meta property="og:image" content="https://yourdomain.com/preview.jpg" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <title>Affluence Victoria Hotel - Ekpoma</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="/favicon.ico" />
+</head>
+<body>
+  <header>
+    <h1>Affluence Victoria Hotel</h1>
+    <p>Ekpoma, Edo State • Premium Hospitality</p>
+  </header>
+
+  <main>
+    <section id="rooms" aria-label="Available Rooms"></section>
+  </main>
+
+  <footer>
+    <p>Book now via WhatsApp:</p>
+    <p>
+      <a href="https://wa.me/2347033948657">0703 394 8657</a> |
+      <a href="https://wa.me/2348075919954">0807 591 9954</a>
+    </p>
+  </footer>
+
+  <!-- Firebase Integration -->
+  <script type="module" src="script.js"></script>
+
+  <!-- Analytics Placeholder -->
+  <!-- <script>/* Add Google Analytics or Meta Pixel here */</script> -->
+</body>
+</html>
